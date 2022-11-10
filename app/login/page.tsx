@@ -1,4 +1,4 @@
-export default function Login() {
+export default function LoginPage() {
   return (
     <div className="flex items-center justify-center min-h-screen p-4 -mt-36">
       <div className="flex flex-col items-center justify-center p-4 shadow-lg w-96 ">
